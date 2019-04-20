@@ -1,0 +1,29 @@
+{
+  "name": "react-mobile-list",
+  "version": "1.0.1",
+  "description": "react-mobile-list and pc list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengDian1024/react-mobile-list.git"
+  },
+  "keywords": [
+    "react",
+    "mobile",
+    "list"
+  ],
+  "author": "zhengdian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhengDian1024/react-mobile-list/issues"
+  },
+  "homepage": "https://github.com/ZhengDian1024/react-mobile-list#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6"
+  }
+}
